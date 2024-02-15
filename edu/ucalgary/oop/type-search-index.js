@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"edu.ucalgary.oop","l":"AccessLog"},{"l":"All Classes","url":"allclasses-index.html"}]
